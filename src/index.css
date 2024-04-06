@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  overflow: hidden;
+}
+
+#header {
+  flex: 0 0 60px;
+}
+
+header {
+  background-color: #4e4efa;
+  color: white;
+}
+
+.bg-theme {
+  background-color: #f4f4ff;
+}
+
+th,
+td {
+  padding: 0.5rem;
+  border: 1px solid #e7e7e7;
+}
+
+th {
+  background-color: #4e4efa;
+  color: white;
+}
+
+td {
+  background-color: white;
+}
+
+.table-container {
+  width: 1000px;
+}
