@@ -378,7 +378,7 @@ const protocolsDB = [
         id: 154,
         folder_id: 9,
         name: "Lungs Qi Deficiency ",
-        points: "Lu7, 9, Ub13, Cv12, Cv6, St36 ⬆ (6)"
+        points: "Lu7, 9, Ub13, Gv12, Cv6, St36 ⬆ (6)"
     },
     {
         id: 155,
