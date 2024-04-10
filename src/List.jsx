@@ -56,7 +56,7 @@ const List = () => {
               protocols.length !== 0 ? protocols.map((protocol) => (
                 <tr key={protocol.id}>
                   <td> {protocol.name}  </td>
-                  <td> {protocol.points}  </td>
+                  <td> {protocol.points} { protocol.count && <span className="text-primary"> ({protocol.count}) </span> } { protocol.comment && <span className="text-success"> ({protocol.comment}) </span> } </td>
                 </tr>
               )) :
                 <tr>
