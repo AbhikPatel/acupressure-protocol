@@ -24,6 +24,12 @@ header {
   background-color: #f4f4ff;
 }
 
+table {
+  overflow-x: auto;
+  white-space: nowrap;
+  display: block;
+}
+
 th,
 td {
   padding: 0.5rem;

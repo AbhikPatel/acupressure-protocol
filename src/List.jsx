@@ -39,8 +39,8 @@ const List = () => {
       <div className="mb-3">
         <Search handleSearch={handleSearch} />
       </div>
-      <div className='border table-container overflow-auto rounded-3'>
-        <table className='w-100'>
+      <div className='border rounded-3'>
+        <table>
           <colgroup>
             <col style={{ width: '200px' }} />
             <col style={{ width: '500px' }} />
