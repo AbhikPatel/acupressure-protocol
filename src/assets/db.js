@@ -54,7 +54,7 @@ const protocolsDB = [
         id: 100,
         folder_id: 1,
         name: "Heart Qi Deficiency",
-        points: "P6, Cv6, H5, Ub15, Cv17 ⬆",
+        points: "P6, H5, Cv6, Ub15, Cv17 ⬆",
         count: 5,
         comment: null
     },
@@ -62,7 +62,7 @@ const protocolsDB = [
         id: 101,
         folder_id: 1,
         name: "Heart Yang Deficiency ",
-        points: "P6, Cv6, 17, H5, 7, 9, Ub15, Gv14 ⬆",
+        points: "P6, H5, 7, 9 Cv6, 17, Ub15, Gv14 ⬆",
         count: 8,
         comment: null
     },
@@ -197,7 +197,7 @@ const protocolsDB = [
     {
         id: 118,
         folder_id: 3,
-        name: "Stasis of Bloof in Uterus ",
+        name: "Stasis of Blood in Uterus ",
         points: "Liv3, 13, 14, Gb34, Ub17, 18, Cv6, Sp10, P6, Tw6 ⬇",
         count: 10,
         comment: null
@@ -363,7 +363,7 @@ const protocolsDB = [
         id: 139,
         folder_id: 7,
         name: "Liver Blood Deficiency ",
-        points: "P6, Sp6, St36, Cv4, Liv8, Ub17, 18, 20, 23⬆",
+        points: "Liv8, P6, Sp6, St36, Cv4, Ub17, 18, 20, 23⬆",
         count: 9,
         comment: null
     },
@@ -491,7 +491,7 @@ const protocolsDB = [
         id: 155,
         folder_id: 9,
         name: "Lungs Yin Deficiency ",
-        points: "Lu9, 10,Ub13,37, Cv4, 12, 17, Gv12, K6 ⬆",
+        points: "Lu9, 10, Ub13,37, Cv4, 12, 17, Gv12, K6 ⬆",
         count: 9,
         comment: null
     },
